@@ -14,14 +14,20 @@
   height: 50px;
   background-color: rgb(153, 153, 153);
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  padding-right: 15px;
 }
 
 .screen-text {
   color: white;
   font-size: 20px;
+}
+
+.answer-text {
+  color: white;
+  font-size: 18px;
   font-weight: 600;
 }
 
