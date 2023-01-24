@@ -1,0 +1,43 @@
+.navbar {
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10vw;
+  align-items: center;
+}
+
+.navbar > p {
+  font-size: 50px;
+}
+
+.links {
+  display: flex;
+  gap: 15px;
+  font-size: 20px;
+}
+
+.homeBody {
+  width: 100vw;
+  padding: 10vh 20vw;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.quoteBody {
+  width: 100vw;
+  padding: 30vh 20vw;
+}
+
+.calcBody {
+  width: 100vw;
+  padding: 20vh 20vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.calcBody > p {
+  font-size: 30px;
+  font-weight: 600;
+}
