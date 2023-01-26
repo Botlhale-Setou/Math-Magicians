@@ -48,7 +48,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com) currently unavailable.
+- [Click here](https://math-magicians-ysoy.onrender.com/) to view live demo link.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
